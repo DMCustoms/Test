@@ -5,7 +5,7 @@
     <title>Тестовое задание</title>
     <link rel="stylesheet" href="/css/style.css" type="text/css">
   </head>
-  <body">
+  <body>
     <form action="" method="POST">
         <input name="parse" type="submit" class="parse-button" value="Parse" />
         <input name="show" type="submit" class="show-button" value="Show" />
